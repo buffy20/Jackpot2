@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Jugadas>
+   <Jugada>
+      <FechaYHora>Fri Mar 14 13:32:49 CET 2014</FechaYHora>
+      <Saldo>6.0</Saldo>
+      <Deposito>1006.5</Deposito>
+      <Premio>0</Premio>
+   </Jugada>
+   <Jugada>
+      <FechaYHora>Fri Mar 14 13:32:49 CET 2014</FechaYHora>
+      <Saldo>10.5</Saldo>
+      <Deposito>1006.5</Deposito>
+      <Premio>5</Premio>
+   </Jugada>
+   <Jugada>
+      <FechaYHora>Fri Mar 14 13:32:49 CET 2014</FechaYHora>
+      <Saldo>10.0</Saldo>
+      <Deposito>1006.5</Deposito>
+      <Premio>0</Premio>
+   </Jugada>
+   <Jugada>
+      <FechaYHora>Fri Mar 14 13:32:50 CET 2014</FechaYHora>
+      <Saldo>9.5</Saldo>
+      <Deposito>1006.5</Deposito>
+      <Premio>0</Premio>
+   </Jugada>
+   <Jugada>
+      <FechaYHora>Fri Mar 14 13:32:50 CET 2014</FechaYHora>
+      <Saldo>9.0</Saldo>
+      <Deposito>1006.5</Deposito>
+      <Premio>0</Premio>
+   </Jugada>
+   <Jugada>
+      <FechaYHora>Fri Mar 14 13:32:50 CET 2014</FechaYHora>
+      <Saldo>8.5</Saldo>
+      <Deposito>1006.5</Deposito>
+      <Premio>0</Premio>
+   </Jugada>
+   <Jugada>
+      <FechaYHora>Fri Mar 14 13:32:51 CET 2014</FechaYHora>
+      <Saldo>8.0</Saldo>
+      <Deposito>1006.5</Deposito>
+      <Premio>0</Premio>
+   </Jugada>
+   <Jugada>
+      <FechaYHora>Fri Mar 14 13:32:51 CET 2014</FechaYHora>
+      <Saldo>8.5</Saldo>
+      <Deposito>1006.5</Deposito>
+      <Premio>1</Premio>
+   </Jugada>
+   <Jugada>
+      <FechaYHora>Fri Mar 14 13:32:51 CET 2014</FechaYHora>
+      <Saldo>8.0</Saldo>
+      <Deposito>1006.5</Deposito>
+      <Premio>0</Premio>
+   </Jugada>
+   <Jugada>
+      <FechaYHora>Fri Mar 14 13:32:51 CET 2014</FechaYHora>
+      <Saldo>7.5</Saldo>
+      <Deposito>1006.5</Deposito>
+      <Premio>0</Premio>
+   </Jugada>
+</Jugadas>
